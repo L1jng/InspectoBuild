@@ -1,0 +1,12 @@
+.btn-yellow{
+	background-color:#75644e ;
+	padding: 15px 20px;
+	bold-radius:4px;
+	color:white;
+	font-weight:bold;
+	font-family:"DM Sans", sans-serif;
+}
+
+.btn-yellow:hover{
+	background-color:#b19b7e ;
+}
